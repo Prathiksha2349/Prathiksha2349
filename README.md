@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves cre
 ## 📫 How to Reach Me
 Feel free to get in touch!
 - 📧 Email: [prathiksha.2349@gmail.com](mailto:prathiksha.2349@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/prathiksha23/)
+- 💼 LinkedIn: [Prathiksha@linkedin](https://www.linkedin.com/in/prathiksha23/)
 
 
 ## 💡 Fun Fact
