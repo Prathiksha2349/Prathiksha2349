@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**Prathiksha2349/Prathiksha2349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate front-end developer who loves creating beautiful and functional web experiences. Here's a bit more about me and my tech stack:
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, C, Java
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Advanced JavaScript techniques
+- Enhancing my skills in UX/UI design
+
+## 📫 How to Reach Me
+Feel free to get in touch!
+- 📧 Email: [prathiksha.2349@gmail.com](mailto:prathiksha.2349@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/prathiksha23/)
+
+
+## 💡 Fun Fact
+I love exploring new technologies and improving my skills by working on open-source projects!
+
+Thanks for visiting my profile! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate.
+
+---
+
+**[Prathiksha]**
+
