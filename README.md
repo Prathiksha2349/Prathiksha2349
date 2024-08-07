@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm PRATHIKSHA!
 
 Welcome to my GitHub profile! I'm a passionate front-end developer who loves creating beautiful and functional web experiences. Here's a bit more about me and my tech stack:
 
