@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves cre
 
 ## 🚀 Tech Stack
 - **Languages:** HTML, CSS, JavaScript, C, Java
-- **Tools:** Git, GitHub ,VS code
+- **Tools:** Git, GitHub ,VS code ,Figma
 
 ## 🌱 What I'm Learning
 - Advanced JavaScript techniques
