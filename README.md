@@ -3,12 +3,31 @@
 Welcome to my GitHub profile! I'm a passionate front-end developer who loves creating beautiful and functional web experiences. Here's a bit more about me and my tech stack:
 
 ## 🚀 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, C, Java
+- **Languages:** HTML, CSS, JavaScript, Python
 - **Tools:** Git, GitHub ,VS code ,Figma
 
+## 📊 Data Analyst Skills
+Data Cleaning & Preprocessing
+Data Visualization (Power BI, Excel Charts)
+Basic SQL Queries
+Exploratory Data Analysis (EDA)
+Working with datasets (CSV, Excel)
+Basic Python for Data Analysis (Pandas, NumPy – Learning)
+
+
 ## 🌱 What I'm Learning
-- Advanced JavaScript techniques
-- Enhancing my skills in UX/UI design
+Advanced JavaScript techniques
+Enhancing my skills in UX/UI design
+Data Analysis using Python
+SQL for data querying
+Power BI for dashboard creation
+
+
+## 📂 Data Analyst Projects (Coming Soon 🚧)
+Sales Data Analysis Dashboard
+Customer Insights Report
+Data Cleaning & Visualization Projects
+
 
 ## 📫 How to Reach Me
 Feel free to get in touch!
