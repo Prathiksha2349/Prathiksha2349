@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate front-end developer who loves creating beautiful and functional web experiences. Here's a bit more about me :
 
-## 🚀 Tech Stack
-- **Languages:** HTML, CSS, SQL
-- **Tools:** Git, GitHub ,VS code ,Figma
+## 🚀 Tech 
+- **Languages:** Python, HTML, CSS, JS, SQL
+- **Tools:** Jupyter notebook, Git, GitHub ,VS code ,Figma
 
 ## 📊 Data Analyst Skills
 - Data Cleaning & Preprocessing
@@ -13,12 +13,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer who loves cre
 - Exploratory Data Analysis (EDA)
 - Working with datasets (CSV, Excel)
 - Basic Python for Data Analysis (Pandas, NumPy – Learning)
-
-
-## 🌱 What I'm Learning
-- SQL for data querying
-
-
 
 ## 📫 How to Reach Me
 Feel free to get in touch!
