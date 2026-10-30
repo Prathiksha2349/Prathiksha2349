@@ -109,10 +109,6 @@ I'm a curious learner who believes in continuous improvement, practical experien
 
 ## 💼 Professional Experience
 
-**Nitte University – Assistant**
-- Audited and validated structured records using Microsoft Excel.
-- Identified missing, inconsistent, and inaccurate data.
-- Investigated discrepancies and verified corrections to maintain data quality.
 
 **Blitz – Product Support Intern**
 - Analyzed backend logs and application data using Metabase.
